@@ -34,6 +34,10 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor whiteColor];
     self.title = @"打开其他APP";
+    
+    
+    
+    
     [self.view addSubview:self.btn];
     [self.view addSubview:self.btn1];
     [self.view addSubview:self.btn2];
